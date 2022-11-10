@@ -5,3 +5,4 @@ ngantuk ngopi
 ngopi kapal api
 Kopiko
 Pait
+Enak
